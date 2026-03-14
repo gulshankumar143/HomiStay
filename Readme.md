@@ -2,6 +2,9 @@
 
 HomiStay is a full-stack web application designed to facilitate the listing, discovery, and review of homestay accommodations. Inspired by platforms like Airbnb, it allows users to browse, create, and manage property listings, as well as leave reviews for their stays.
 
+## Live Demo
+👉[HomiStay Live Demo](https://homistay-leme.onrender.com)
+
 ## Features
 
 - **User Authentication:** Secure signup and login functionality for users.
