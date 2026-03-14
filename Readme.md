@@ -32,7 +32,7 @@ views/                # EJS templates for UI rendering
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gulshankumar143/HomiStay
    cd HomiStay
    ```
 2. **Install dependencies:**
